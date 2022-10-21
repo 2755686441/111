@@ -1,13 +1,13 @@
 {
 # 公众号配置
 # 公众号appId
-"app_id": "wxac38cda0171d9200",
+"app_id": "wx9e8ebca42c42072e",
 # 公众号appSecret
-"app_secret": "46c0e34f98cff0efe40d6ffc321b490f",
+"app_secret": "f14c33652ee4e2ec262d70486d4e187c",
 # 模板消息id
-"template_id": "2vUKJfjq4JKAe8hyiqbdWk4_Se3bfud_2QZu35PmGR8",
+"template_id": "xBCeugrF9gbJXhUSknWowKdPBKhHmRIEEKPjxTrbOoc",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
-"user": ["o1IL16BbdyHOhiO4LADCSfU02gZ1"],
+"user": ["o68cL60d-8pUBom6Tcjuna8rY4sQ"],
 
 # 信息配置
 # 和风天气apikey
@@ -15,9 +15,9 @@
 # 天行数据apikey
 "tian_api": "406469b8d2dc49a280869858609c5ba2",
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
-"region": "宜春",
+"region": "周口",
 # 生日
-"birthday1": {"name": "钢铁大侠", "birthday": "2003-08-03"},
+"birthday1": {"name": "周传博", "birthday": "2000-09-23"},
 # 在一起的日子，格式同上
 "love_date": "1949-10-01",
 # 金句中文，如果为空，默认会读取金山的每日金句
